@@ -60,6 +60,30 @@ open up you local host and port
 ##### cmd
 - mlflow ui
 
+### dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Rohan0497/End-to-end-Machine-Learning-Project-with-MLflow.mlflow \
+MLFLOW_TRACKING_USERNAME=Rohan0497 \
+MLFLOW_TRACKING_PASSWORD=b4ddf25ffbb97feda70db5309e2559c251860a4f \
+python script.py
+
+Run this to export as env variables:
+
+```bash
+
+# use 'set' command for Windows and 'export' for Linux
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/Rohan0497/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
+
+export MLFLOW_TRACKING_USERNAME=Rohan0497 
+
+export MLFLOW_TRACKING_PASSWORD=b4ddf25ffbb97feda70db5309e2559c251860a4f
+
+```
+
+
+
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
@@ -101,7 +125,7 @@ open up you local host and port
 ## 5. Open EC2 and Install docker in EC2 Machine:
 	
 	
-	#optional
+	#optinal
 
 	sudo apt-get update -y
 

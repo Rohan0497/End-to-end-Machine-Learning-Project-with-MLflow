@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rohan%20Thorat/Desktop/Rohan/MLops/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/bc43e41f9b3e45d8999f13f02a772612/artifacts
+end_time: 1706035163642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc43e41f9b3e45d8999f13f02a772612
+run_name: dazzling-rook-848
+run_uuid: bc43e41f9b3e45d8999f13f02a772612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706035160759
+status: 3
+tags: []
+user_id: Rohan Thorat

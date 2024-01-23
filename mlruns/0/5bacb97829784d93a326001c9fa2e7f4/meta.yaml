@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rohan%20Thorat/Desktop/Rohan/MLops/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/5bacb97829784d93a326001c9fa2e7f4/artifacts
+end_time: 1706041331344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bacb97829784d93a326001c9fa2e7f4
+run_name: nervous-koi-437
+run_uuid: 5bacb97829784d93a326001c9fa2e7f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706041328640
+status: 3
+tags: []
+user_id: Rohan Thorat

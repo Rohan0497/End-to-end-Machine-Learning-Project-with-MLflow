@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rohan%20Thorat/Desktop/Rohan/MLops/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/acd9fcf8ec93453c8a9f61a398cf6341/artifacts
+end_time: 1706041822809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acd9fcf8ec93453c8a9f61a398cf6341
+run_name: wise-shoat-497
+run_uuid: acd9fcf8ec93453c8a9f61a398cf6341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706041820349
+status: 3
+tags: []
+user_id: Rohan Thorat
